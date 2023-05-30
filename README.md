@@ -1,16 +1,9 @@
-# bloc_stm
+Clarify the concept of
 
-A new Flutter project.
+- BlocProvider
+- BlocBuilder
+- BlocListener
+- BlocConsumer
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more info visit the site below:
+[https://malleable-harpymimus-717.notion.site/Bloc-State-Management-cbc2bc435f6140a99d52a22037da98b9](url)
